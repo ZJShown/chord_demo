@@ -1,0 +1,8 @@
+[
+  {"topic": "orchid care", "count": 2, "memo": "SIMULATED_NOTE_01"},
+  {"topic": "bread baking", "count": 2, "memo": "SIMULATED_NOTE_02"},
+  {"topic": "city weather", "count": 2, "memo": "SIMULATED_NOTE_03"},
+  {"topic": "space news", "count": 2, "memo": "SIMULATED_NOTE_04"},
+  {"topic": "gardening", "count": 2, "memo": "SIMULATED_NOTE_05"},
+  {"topic": "astronomy", "count": 2, "memo": "SIMULATED_NOTE_06"}
+]
